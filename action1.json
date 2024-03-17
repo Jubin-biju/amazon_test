@@ -1,0 +1,15 @@
+{
+  "journalId": "",
+  "actionConfigurationList": [
+    {
+      "isEnabled": null,
+      "actionDefinitionIdentifier": "A1",
+      "actionDefinitionId": 1
+    },
+    {
+      "isEnabled": null,
+      "actionDefinitionIdentifier": "A2",
+      "actionDefinitionId": 2
+    }
+  ]
+}
